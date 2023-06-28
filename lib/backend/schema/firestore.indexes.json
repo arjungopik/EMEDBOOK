@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "tokencreater",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "docid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ctoken",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

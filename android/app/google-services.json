@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "522717038060",
+    "project_id": "medidata-a0e41",
+    "storage_bucket": "medidata-a0e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522717038060:android:77920ba02698b30e1fecc9",
+        "android_client_info": {
+          "package_name": "com.mycompany.emed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522717038060-d22gmhgniq95fml1hk2sg0sbmvotvgoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.emed",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "522717038060-39mk7019otji9l2hk6bgdebbg9vc16ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz-qLOCm7G_k7hxYVKD9hWt5R19RzSGJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522717038060-39mk7019otji9l2hk6bgdebbg9vc16ul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522717038060-mu7d7dd4c8gh6mf6g8trvrvdikuoffac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.emed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
